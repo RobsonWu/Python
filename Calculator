@@ -1,0 +1,19 @@
+class Calculator:
+
+    def plus(a, b):
+        result_plus = a + b
+        print(result_plus)
+
+    def minus(self, a, b):
+        result_minus = a - b
+        print(result_minus)
+
+    def increase(self, a, b):
+        result_increase = a * b
+        print(result_increase)
+    
+    def division(self, a, b):
+        result_division = a/b
+        print(result_division)
+
+        
